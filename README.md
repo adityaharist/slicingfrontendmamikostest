@@ -1,6 +1,7 @@
-# slicingfrontendmamikostest
+# slicing frontend parttime mamikos test
 Hasil test dari slicing dari desain photoshop ubah kedalam bentuk web responsif (mobile-first)
 
+# Desain yang diharapkan recruiter (format PNG)
 ![Design  Technical Test - FE Mamikos](https://user-images.githubusercontent.com/36336485/175757308-a870463a-579f-486d-af8f-3d077624c497.png)
 
 # Hasil slicing desain ke web bisa dilihat disini :
