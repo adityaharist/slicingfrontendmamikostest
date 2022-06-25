@@ -5,6 +5,7 @@ Hasil test dari slicing dari desain photoshop ubah kedalam bentuk web responsif 
 
 # Hasil slicing desain ke web bisa dilihat disini :
 <h1>https://arifirmansyah.github.io/slicingfrontendmamikostest/</h1>
+
 # Bisa diperkecil tampilan halaman web untuk melihat tampilan mobilenya
 
 #note:
